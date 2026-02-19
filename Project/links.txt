@@ -1,0 +1,2 @@
+VÍDEO ALGELIN = https://drive.google.com/file/d/1Oom1nGTUagTH2yFHvKxE4ROR5-0zHwvb/view?usp=sharing
+COLAB = https://colab.research.google.com/drive/1a3R5OcCXrTX8kX3v-SfdWKqxO8FMy874?usp=sharing
